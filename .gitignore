@@ -1,7 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-*$py.class
+*$py.class 
+201908-citibike-tripdata.csv
+New-201908-citibike-tripdata.csv
 
 # C extensions
 *.so
