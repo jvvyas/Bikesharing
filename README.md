@@ -14,9 +14,9 @@ To Perform a data analysis of bike sharing trips druing the busiest month of Aug
 
 ## Analytical Results:
 
-[link to dashboard] (https://public.tableau.com/views/Module14challengeDashboard/NYCCitiBikeAnalysisStory?:language=en-US&:display_count=n&:origin=viz_share_link)
+[link to dashboard](https://public.tableau.com/views/Module14challengeDashboard/NYCCitiBikeAnalysisStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-[link to Pages] (https://public.tableau.com/views/Module14challenge_16537666917370/UserTripsbyGenderbyWeekdayViz?:language=en-US&:display_count=n&:origin=viz_share_link)
+[link to Pages](https://public.tableau.com/views/Module14challenge_16537666917370/UserTripsbyGenderbyWeekdayViz?:language=enUS&:display_count=n&:origin=viz_share_link)
 
 - Checkout Times for Users:
 ![image](https://user-images.githubusercontent.com/93893263/170841353-c78b8176-4042-4297-a44f-8444c8ead4ae.png)
